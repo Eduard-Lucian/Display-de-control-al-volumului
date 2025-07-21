@@ -87,5 +87,10 @@ Acest proiect combină electronică de bază cu un concept intuitiv de interfaț
 
 ---
 
-## 📁 Structura fișierelor
+# Proiect Arduino
+
+Acesta este un proiect realizat pe platforma Wokwi.
+
+[Vezi proiectul pe Wokwi](https://wokwi.com/projects/431556222986207233)
+
 
